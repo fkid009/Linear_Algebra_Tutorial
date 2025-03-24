@@ -13,7 +13,6 @@ Study Topics
 │   └── Basic matrix operations
 │
 ├── 🔢 2. Solving Matrix Equations
-│   ├── Matrix classification & solving Ax = b
 │   ├── General & special matrices
 │   └── Solving multiple equations
 │
